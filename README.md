@@ -1,2 +1,2 @@
 # Neural-Network
-In this file, we have a jupiter notebook with shows how a multilayer perceptron is implemented from scratch using pytorch. We used pytorch data.
+In the  jupiter notebook we  show how a multi-layer perceptron is implemented from scratch using pytorch. We used MNIST data.
